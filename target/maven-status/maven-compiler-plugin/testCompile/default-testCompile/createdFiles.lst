@@ -1,0 +1,4 @@
+runners/TestRunner.class
+SignUpPage.class
+stepDefinitions/BaseTest.class
+stepDefinitions/StepDefinitions.class
